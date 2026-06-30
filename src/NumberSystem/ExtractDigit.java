@@ -1,3 +1,5 @@
+package NumberSystem;
+
 class ExtractDigit{
     public static void main(String[] args) {
         int num = 154;

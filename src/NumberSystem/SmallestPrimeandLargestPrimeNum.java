@@ -1,3 +1,5 @@
+package NumberSystem;
+
 public class SmallestPrimeandLargestPrimeNum {
       public static boolean isPrime(int num){
         if(num <= 1) return false;

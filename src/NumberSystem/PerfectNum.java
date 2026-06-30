@@ -1,3 +1,5 @@
+package NumberSystem;
+
 public class PerfectNum {
     public static void main(String[] args) {
         int num= 6;

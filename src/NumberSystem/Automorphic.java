@@ -1,3 +1,5 @@
+package NumberSystem;
+
 public class Automorphic {
     public static void main(String[] args) {
         int num = 25; 

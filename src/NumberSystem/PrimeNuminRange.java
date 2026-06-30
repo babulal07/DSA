@@ -1,3 +1,5 @@
+package NumberSystem;
+
 public class PrimeNuminRange {
 
     public static boolean isPrime(int num){
